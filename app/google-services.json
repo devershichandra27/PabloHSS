@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "108968365728",
+    "firebase_url": "https://pablohss-a4d22.firebaseio.com",
+    "project_id": "pablohss-a4d22",
+    "storage_bucket": "pablohss-a4d22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108968365728:android:37a112c3c68295d2",
+        "android_client_info": {
+          "package_name": "chandra.devershi.pablohss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108968365728-t9j4svu83idv9oplsaa8u08v060kn4g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC6sq9DAupa0_mai4zj5NxTxEXW6EGHlU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
